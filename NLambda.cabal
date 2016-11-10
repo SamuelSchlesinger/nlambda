@@ -48,6 +48,7 @@ Library
     Nominal.Formula.Quantification
     Nominal.Formula.Solver
     Nominal.Graph,
+    Nominal.If,
     Nominal.Maybe,
     Nominal.Orbit,
     Nominal.Set,

@@ -43,4 +43,3 @@ import Nominal.Type as Export (BareNominalType(..), NominalType(..), Scope, MapV
 import Nominal.Variable as Export (Variable, variable)
 import Nominal.Variants as Export (Variants, variant, fromVariant, iteV)
 import Prelude hiding (or, and, not, sum, map, filter, maybe)
-
